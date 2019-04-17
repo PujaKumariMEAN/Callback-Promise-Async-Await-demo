@@ -1,0 +1,17 @@
+{
+  "name": "callproasync",
+  "version": "1.0.0",
+  "description": "this is demo for learning callbacks promises and async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "puja",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
